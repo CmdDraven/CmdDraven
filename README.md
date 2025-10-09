@@ -4,13 +4,11 @@ Most of what I plan to do here starts with a question — not always a sensible 
 
 I'm not a coder. I’m not fluent in bitwise logic or compiler design or any of the deeply technical guts of what I’m building. Everything here is AI-assisted — I feed the ideas, the structure, the philosophy. I sketch the skeletons and define the bones, and the machine helps flesh them out. I see myself more as an architect than a builder. Until a team shows up (if they ever do), I’ll be piloting this solo, with a co-pilot made of silicon. (I swear to god HAL, you better behave this time)
 
-Ideas like SEco (an AI stack with modular bones and abstract flexibility) and .scbp3 (a file format built to adapt itself to the platform it's running on) are where I spend most of my time. None of them are polished or production-ready. They’re experiments with long shadows — systems I’m trying to make *work*, whether or not they catch on.
-
-I’m also working on the Bitplane Debug Console (BDC), a sort of sandboxed observatory for code — not tied to .scbp3 or SEco, but sharing the same goal: giving devs more agency, control, clarity, and more room to break things without burning the house down. 
+Ideas like SEco (an AI stack with modular bones and abstract flexibility) and scbp3 (a file format architecture built to adapt itself to the platform it's running on) and other lofty ideas are where I spend most of my time. None of them are polished or production-ready. They’re experiments with long shadows — systems I’m trying to make *work*, whether or not they catch on.
 
 Nothing here is trying to compete with the tech giants, or disrupt anything for the sake of disruption. I just want to build things that aren’t here yet. And if any of it sparks progress beyond my own desk, great. If not — I’ll still be glad I made the attempt.
 
-This space will likely be raw R&D, scattered ideas, and half-built futures. Maybe a Proof of Concept or two here and there.
+This space will likely be R&D, scattered ideas, and half-built futures. Maybe a Proof of Concept or two here and there.
 
 
 If you’ve ever felt pulled to build something you can’t fully explain — not for profit, not for glory, but just because it feels like it *should* exist — then we might have something in common.
