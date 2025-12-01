@@ -1,7 +1,20 @@
-Hi! I'm James, known online as Cmd Draven for many years now- depending on the circle anyway. Some of my past experiences include scripting on 'Furcadia' in my teens (if anybody remembers DS!), some light Dev work for GMod Servers and co-building the 'Hyper Experimental Tier' mod for Supreme Commander: Forged Alliance Forever.
+Hello! I’m James I.T. Wylie, known online as CmdDraven.
+Most of my early tinkering happened in small communities and games: DragonSpeak scripting on Furcadia in my teens, modding for GMod servers, and co-building the Hyper Experimental Tier mod for Supreme Commander: FAF.
 
-I'm not a coder. I’m not fluent in bitwise logic, compiler design or any of the deeply technical guts of what I’m building. Everything here is AI-assisted — I feed the ideas, the structure and the philosophy. I sketch the skeletons and define the bones, and the machine helps flesh them out. I see myself more as an architect than engineer. Until a team shows up (if they ever do), I’ll be piloting this solo, with a co-pilot made of silicon. (I swear to god HAL, you better behave this time)
+I only moved into proper software architecture recently, and I still see myself as early in the journey. I’m learning continuously, trying to earn my place by building with intention and refining my understanding piece by piece.
 
-Nothing here is trying to compete with the tech giants, or disrupt anything for the sake of disruption. I just want to see what I can make work; if anything sticks, so to speak. And if any of it sparks progress beyond my own desk, great. If not — I’ll still be glad I made the attempt.
+My work now gathers under Synavera Discorporated, a personal R&D umbrella focused on tools that respect the user—emphasising agency, privacy, transparency, and security. I design the structure, constraints, and philosophy; AI helps accelerate the implementation. It’s a collaboration between human direction and machine precision, and I’m slowly becoming more fluent in both roles.
 
-This space will likely be R&D (likely kept private for a while until things make some kind of sense) and various tools and Linux packages of tbc usefulness. I've started a 'company' called Synavera, or synavera_discorporated. Based on "Synapse" and "Veracity", software under this umbrella will be beholden to a strict ethos dictating User Agency, Privacy, Security and Granular Control.
+A key part of this ecosystem is something I developed called the Synavera Script Etiquette (SSE).
+It’s a set of guidelines I use to keep code—whether written by me, AI, or future contributors—consistent in clarity, explicitness, and intent. Think of it as the heartbeat that keeps Synavera’s projects aligned, even as they evolve.
+
+Projects currently taking shape include:
+
+• Syn-Syu — a Linux system-state auditor and update-introspection tool.
+• SIGIL — a cryptographic authentication layer with tamper-evident logic and explicit security rituals.
+• Syn-OTP — a transparent, vendor-agnostic authenticator with optional hardware-backed secret storage.
+
+These tools are still evolving. They’re experiments grounded in a consistent ethos, not finished products pretending to be polished. If they become useful beyond my own desk, I’ll be glad. If others join in later, even better. For now, this space is my workshop—a place to explore, document, improve, and build responsibly.
+
+Synavera isn’t a conventional company.
+It’s the name I’ve given to a philosophy: software should empower the user, not obscure them.
