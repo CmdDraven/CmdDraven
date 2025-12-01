@@ -4,4 +4,4 @@ I'm not a coder. I’m not fluent in bitwise logic, compiler design or any of th
 
 Nothing here is trying to compete with the tech giants, or disrupt anything for the sake of disruption. I just want to see what I can make work; if anything sticks, so to speak. And if any of it sparks progress beyond my own desk, great. If not — I’ll still be glad I made the attempt.
 
-This space will likely be R&D (likely kept private for a while until things make some kind of sense) and various tools and Linux packages of tbc usefulness. I've 'started' a 'company' called Synavera, or synavera_discorporated. Based on "Synapse" and "Veracity", software under this umbrella will be beholden to a strict ethos dictating User Agency, Ethics, Privacy, Security and Granular Control.
+This space will likely be R&D (likely kept private for a while until things make some kind of sense) and various tools and Linux packages of tbc usefulness. I've started a 'company' called Synavera, or synavera_discorporated. Based on "Synapse" and "Veracity", software under this umbrella will be beholden to a strict ethos dictating User Agency, Privacy, Security and Granular Control.
